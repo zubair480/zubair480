@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zubair480
 - 👀 I’m interested in MERN stack development. 
 - 🌱 I’m currently learning nodejs in depth.
-- 💞️ I’m looking to collaborate on any kind of React of MERN project. 
+- 💞️ I’m looking to collaborate on any kind of MERN/react-native/flutter/MEAN project. 
 - 📫 You can reach me out by sending an email at zubairzafar480@gmail.com or at my linkedin.com/in/zubair480
