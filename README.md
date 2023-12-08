@@ -11,6 +11,8 @@
 
 - Completed a successful software engineering internship at Etihad Aviation Group World Headquarters, Abu Dhabi.
 - Mentor at Lablab.ai, guiding hackathon participants in technical and business aspects.
+- MERN Stack Developer at Carchaze
+- React JS Developer at Koblodo 
 
 ## 💡 Technical Expertise
 
