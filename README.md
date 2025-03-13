@@ -1,6 +1,6 @@
 # Zubair Zafar  
 
-👋 Hi there! I'm Zubair Zafar, a passionate software developer with a focus on MERN stack development.  
+👋 Hi there! I'm Zubair Zafar, a passionate software engineer pursuing my Masters Degree.  
 
 ## 🌐 Academic Background  
 
