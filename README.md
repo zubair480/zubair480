@@ -44,13 +44,13 @@ I'm the first engineer at a stealth AI startup, where I own the product from arc
 | 2nd | Attest (solo) | Agent Native Builders, Cloudflare SF |
 | 2nd | ROOT (team) | CrewAI Hackathon, SF |
 | 2nd | Clip Police (team) | Auth0 x Stripe Hackathon, Okta SF |
-| Track prizes | RecallRadius (team) | B.E.L.L.E x Qoder x Neo4j, SF |
+| 2nd | RecallRadius (team) | B.E.L.L.E x Qoder x Neo4j, SF |
 
 The Amadeus win became an internship at Etihad, where I shipped the parser to production and cut cargo data-entry errors by 95%.
 
 ---
 
-### Before Andever
+### Before Andever AI
 
 - **Software Engineer (Graduate Assistant), Eastern Illinois University.** Rewrote a 2006-era PHP system in Laravel for 7,000+ users with SSO and role-based access, cutting API response time 65% through query and index work
 - **Graduate Research Assistant, EIU.** YOLOv8 + PyTorch classifier on 80,000+ MRI scans, 97.2% test accuracy
