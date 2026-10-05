@@ -1,6 +1,6 @@
 # Zubair Zafar
 
-**Founding Engineer at Andever AI (Stealth)** · San Francisco · **7x Hackathon Winner** (3x first place)
+**Founding Engineer at Andever AI (Stealth)** · San Francisco · **7x Hackathon Winner** 
 
 I'm the first engineer at a stealth AI startup, where I own the product from architecture to deploy. Most of my work sits where LLM agents meet systems that can't be wrong: approval gates, deterministic checks around model output, eval harnesses, and MCP servers that other agents call.
 
