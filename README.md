@@ -1,6 +1,6 @@
 # Zubair Zafar
 
-**Founding Engineer at Andever AI (Stealth)** · San Francisco · **7x Hackathon Winner** 
+**Founding Engineer at Andever AI (Stealth)** · San Francisco · **9x Hackathon Winner** 
 
 I'm the first engineer at a stealth AI startup, where I own the product from architecture to deploy. Most of my work sits where LLM agents meet systems that can't be wrong: approval gates, deterministic checks around model output, eval harnesses, and MCP servers that other agents call.
 
@@ -34,17 +34,19 @@ I'm the first engineer at a stealth AI startup, where I own the product from arc
 
 ---
 
-### 🏆 7x Hackathon Winner
+### 🏆 9x Hackathon Winner
 
 | Place | Project | Event |
 |---|---|---|
 | 1st | RefundGuard | The Executable World, SF |
 | 1st | Thermal Crusoe ($5,000, team) | Crusoe x The AI Conference hack day, SF |
+| 1st | [MongoMation](https://github.com/zubair480/MongoMation) | MongoDB Harness Engineering Hackathon, SF |
 | 1st | Smart CPM Parser | Amadeus / Etihad Green Development Challenge |
 | 2nd | Attest (solo) | Agent Native Builders, Cloudflare SF |
 | 2nd | ROOT (team) | CrewAI Hackathon, SF |
 | 2nd | Clip Police (team) | Auth0 x Stripe Hackathon, Okta SF |
 | 2nd | RecallRadius (team) | B.E.L.L.E x Qoder x Neo4j, SF |
+| 3rd | [PlantAPI](https://github.com/ali-amjad52114/plantAPI) (team) | Build an Agent Hackathon, Corgi Cafe SF |
 
 The Amadeus win became an internship at Etihad, where I shipped the parser to production and cut cargo data-entry errors by 95%.
 
